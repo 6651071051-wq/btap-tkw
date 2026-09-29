@@ -1,0 +1,6 @@
+body{font-family:"Times New Roman",serif;margin:20px}
+table{border-collapse:collapse}
+td,th{padding:4px 6px}
+.box{border:3px solid navy;background:#fca}
+.c{text-align:center}
+.err{color:#c00}
